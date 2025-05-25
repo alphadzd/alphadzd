@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- HEADER -->
-  <h1>TcpAsf</h1>
+  <h1>AlphaDev</h1>
   <h3>SYSTEM ARCHITECT | DIGITAL INNOVATOR</h3>
 
   <!-- ROLE DESCRIPTION -->
@@ -11,11 +11,11 @@
   
   <!-- METRICS -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=TcpAsf&style=flat-square&color=00C4B4" alt="Profile Views"/>
-    <a href="https://tcpasf.thteam.me">
+    <img src="https://komarev.com/ghpvc/?username=AlphaDev&style=flat-square&color=00C4B4" alt="Profile Views"/>
+    <a href="https://AlphaDev.thteam.me">
       <img src="https://img.shields.io/badge/Portfolio-%F0%9F%9A%80-00C4B4?style=flat-square"/>
     </a>
-    <a href="mailto:tcpasf@thteam.me">
+    <a href="mailto:AlphaDev@thteam.me">
       <img src="https://img.shields.io/badge/Email-%F0%9F%93%A7-FF5733?style=flat-square"/>
     </a>
   </p>
@@ -30,7 +30,7 @@
  * @description A high-performance, cloud-native digital architect
  * @location Algeria 🇩🇿
  */
-class TcpAsf implements FullStackEngineer, SystemArchitect {
+class AlphaDev implements FullStackEngineer, SystemArchitect {
   private readonly name: string = "Tcp Asf";
   private readonly location: string = "Algeria 🇩🇿";
   
@@ -92,11 +92,11 @@ class TcpAsf implements FullStackEngineer, SystemArchitect {
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/TcpAsf/NebulaSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TcpAsf&repo=NebulaSync&theme=radical&hide_border=true" />
+  <a href="https://github.com/AlphaDev/NebulaSync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaDev&repo=NebulaSync&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/TcpAsf/AstraBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TcpAsf&repo=AstraBot&theme=radical&hide_border=true" />
+  <a href="https://github.com/AlphaDev/AstraBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaDev&repo=AstraBot&theme=radical&hide_border=true" />
   </a>
 </div>
 
@@ -114,10 +114,10 @@ class TcpAsf implements FullStackEngineer, SystemArchitect {
         Next-generation Discord bot with AI-powered moderation, advanced role management, and custom command framework.
       </p>
       <div align="center">
-        <a href="https://github.com/tcpasf/Advanced-Discord-Bot-by-AlphaDev">
+        <a href="https://github.com/AlphaDev/Advanced-Discord-Bot-by-AlphaDev">
           <img src="https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white"/>
         </a>
-        <a href="https://discord-bot.tcpasf.dev">
+        <a href="https://discord-bot.AlphaDev.dev">
           <img src="https://img.shields.io/badge/Live-00C4B4?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </div>
@@ -129,10 +129,10 @@ class TcpAsf implements FullStackEngineer, SystemArchitect {
         Advanced FiveM judicial job system with case management, sentencing tools, and legal document processing.
       </p>
       <div align="center">
-        <a href="https://github.com/tcpasf/alpha-judgejob">
+        <a href="https://github.com/AlphaDev/alpha-judgejob">
           <img src="https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white"/>
         </a>
-        <a href="https://judgejob.tcpasf.dev">
+        <a href="https://judgejob.AlphaDev.dev">
           <img src="https://img.shields.io/badge/Live-00C4B4?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </div>
@@ -146,8 +146,8 @@ class TcpAsf implements FullStackEngineer, SystemArchitect {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TcpAsf&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TcpAsf&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaDev&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaDev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -169,13 +169,13 @@ Rust          3 hrs 22 mins  █▓░░░░░░░░░░░░░░░
 <div align="center">
   <h3>Connect With Me</h3>
   
-  <a href="https://tcpasf.thteam.me">
+  <a href="https://AlphaDev.thteam.me">
     <img src="https://img.shields.io/badge/Website-00C4B4?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://github.com/TcpAsf">
+  <a href="https://github.com/AlphaDev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:tcpasf@thteam.me">
+  <a href="mailto:AlphaDev@thteam.me">
     <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
