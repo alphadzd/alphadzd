@@ -1,181 +1,99 @@
-<div align="center">
-  
-  <!-- HEADER -->
-  <h1>AlphaDev</h1>
-  <h3>SYSTEM ARCHITECT | DIGITAL INNOVATOR</h3>
+# 🚀 AlphaDev's GitHub Portfolio
 
-  <!-- ROLE DESCRIPTION -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4B4&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+System+Architect;Building+Resilient+Digital+Ecosystems;Algeria+%F0%9F%87%A9%F0%9F%87%BF+%E2%86%92+Global+Impact" alt="Typing SVG" />
-  </p>
-  
-  <!-- METRICS -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=AlphaDev&style=flat-square&color=00C4B4" alt="Profile Views"/>
-    <a href="https://AlphaDev.thteam.me">
-      <img src="https://img.shields.io/badge/Portfolio-%F0%9F%9A%80-00C4B4?style=flat-square"/>
-    </a>
-    <a href="mailto:AlphaDev@thteam.me">
-      <img src="https://img.shields.io/badge/Email-%F0%9F%93%A7-FF5733?style=flat-square"/>
-    </a>
-  </p>
-</div>
+![License](https://img.shields.io/github/license/AlphaDev/alpha-menu)
+![Profile Views](https://komarev.com/ghpvc/?username=AlphaDev&color=blueviolet)
+![Top Language](https://img.shields.io/github/languages/top/AlphaDev/alpha-menu)
+![Last Commit](https://img.shields.io/github/last-commit/AlphaDev/alpha-menu)
+![Discord](https://img.shields.io/badge/Discord-alphadzd-7289da?logo=discord&logoColor=white)
+
+> **Hi, I’m AlphaDev 👨‍💻 — a 21-year-old full-stack developer from Algeria.**  
+> Passionate about building **advanced FiveM scripts**, **dynamic UIs**, **security tools**, and **feature-rich Discord bots**.
 
 ---
 
-<!-- ABOUT ME -->
-```typescript
-/** 
- * @class SystemArchitect
- * @description A high-performance, cloud-native digital architect
- * @location Algeria 🇩🇿
- */
-class AlphaDev implements FullStackEngineer, SystemArchitect {
-  private readonly name: string = "Tcp Asf";
-  private readonly location: string = "Algeria 🇩🇿";
-  
-  // Core Tech Expertise
-  public readonly expertise: Record<string, number> = {
-    "Full-Stack Development": 95,
-    "System Architecture": 93,
-    "AI Integration": 90,
-    "Discord Bot Development": 92,
-    "FiveM Script Engineering": 94
-  };
-  
-  // Tech Stack
-  public readonly stack = {
-    languages: ["TypeScript", "Python", "Lua", "Rust", "Go"],
-    frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "NestJS", "Django", "Flask"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"]
-  };
-  
-  public getPhilosophy(): string {
-    return "Code, Create, Innovate, Repeat.";
-  }
-}
-```
+## 📖 Table of Contents
+
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Technologies](#technologies)
+- [Contact](#contact)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
-<!-- SKILLS -->
-### 🛠️ Technology Stack
+## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
-      <div align="center">  
-        <img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend & DevOps</h3>
-      <div align="center">  
-        <img src="https://skillicons.dev/icons?i=nodejs,python,go,docker,kubernetes" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Specialized</h3>
-      <div align="center">  
-        <img src="https://skillicons.dev/icons?i=mongodb,redis,graphql,lua,postgres" />
-      </div>
-    </td>
-  </tr>
-</table>
+I’m AlphaDev — a self-taught developer who pushes the boundaries of FiveM scripting, UI design, and security.  
+- 🔥 **Full-stack developer** — Lua, JavaScript, Python, CSS, HTML.
+- 🖥️ Specialized in **FiveM roleplay systems**, advanced UI frameworks, and community-driven tools.
+- 🛡️ Committed to **security**, **performance**, and **scalability** in every project.
+- 🏆 **Owner of [W Development](https://discord.gg/dF5C55hQYB)** — delivering premium FiveM resources and top-tier community support.
+- 🌍 Based in Algeria, 21 years old.
 
 ---
 
-<!-- FEATURED PROJECTS -->
-### 🚀 Featured Projects
+## 🚀 Project Highlights
 
-<div align="center">
-  <a href="https://github.com/AlphaDev/NebulaSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaDev&repo=NebulaSync&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/AlphaDev/AstraBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaDev&repo=AstraBot&theme=radical&hide_border=true" />
-  </a>
-</div>
+Here are some of my **most advanced and community-loved projects**:
 
----
-
-<!-- PROJECT DETAILS -->
-### 🌟 Signature Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Advanced Discord Bot</h3>
-      <p align="center">
-        <strong>Discord.js, Node.js, MongoDB</strong><br>
-        Next-generation Discord bot with AI-powered moderation, advanced role management, and custom command framework.
-      </p>
-      <div align="center">
-        <a href="https://github.com/AlphaDev/Advanced-Discord-Bot-by-AlphaDev">
-          <img src="https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://discord-bot.AlphaDev.dev">
-          <img src="https://img.shields.io/badge/Live-00C4B4?style=flat-square&logo=vercel&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Alpha JudgeJob</h3>
-      <p align="center">
-        <strong>Lua, FiveM, MySQL</strong><br>
-        Advanced FiveM judicial job system with case management, sentencing tools, and legal document processing.
-      </p>
-      <div align="center">
-        <a href="https://github.com/AlphaDev/alpha-judgejob">
-          <img src="https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://judgejob.AlphaDev.dev">
-          <img src="https://img.shields.io/badge/Live-00C4B4?style=flat-square&logo=vercel&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+| 🚀 Project | 🔍 Description | 🛠️ Language |
+|------------|----------------|-------------|
+| [alpha-menu](https://github.com/AlphaDev/alpha-menu) | NoPixel-inspired menu with highly customizable CSS and advanced UI features. | CSS |
+| [alpha-phub](https://github.com/AlphaDev/alpha-phub) | Lua utilities and helper functions for faster development. | Lua |
+| [alpha-mission](https://github.com/AlphaDev/alpha-mission) | Dynamic mission system with advanced logic. | Lua |
+| [wd-bossmenu](https://github.com/AlphaDev/wd-bossmenu) | Bossmenu with sound integration, UI animations, and state management. | JavaScript |
+| [progressbar](https://github.com/AlphaDev/progressbar) | Respect Progressbar-inspired UI with advanced customization. | Lua |
+| [alpha-banking](https://github.com/AlphaDev/alpha-banking) | Advanced banking system with QBCore integration. | HTML |
+| [alpha-medkit](https://github.com/AlphaDev/alpha-medkit) | Revive system with item timers and player interaction. | Lua |
+| [alpha-garages](https://github.com/AlphaDev/alpha-garages) | Garage management system with advanced UI. | Lua |
+| [alpha-vehiclemenu](https://github.com/AlphaDev/alpha-vehiclemenu) | Vehicle menu with dark purple theme and UI transitions. | JavaScript |
+| [alpha-blackmarket](https://github.com/AlphaDev/alpha-blackmarket) | Quick-deploy blackmarket script with advanced UI. | Lua |
+| [tcpasf-tool](https://github.com/AlphaDev/tcpasf-tool) | Security tool suite for advanced server protection. | Python |
+| [Advanced-Discord-Bot-by-AlphaDev](https://github.com/AlphaDev/Advanced-Discord-Bot-by-AlphaDev) | Fully-featured Discord bot with admin commands and games. | JavaScript |
 
 ---
 
-<!-- STATS -->
-### 📊 GitHub Stats
+## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaDev&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaDev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+**Languages:**  
+![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
----
+**Frameworks & Platforms:**  
+- QBCore Framework
+- Node.js, Express
+- Discord API
 
-<!-- WEEKLY DEV STATS -->
-### ⏱️ Weekly Development
-
-```text
-TypeScript   21 hrs 37 mins  ██████████▓░░░░░░░░░░░  42.8%
-Python       12 hrs 42 mins  ██████▒░░░░░░░░░░░░░░░  25.2%
-Lua           7 hrs 15 mins  ███▓░░░░░░░░░░░░░░░░░░  14.4%
-Go            5 hrs 08 mins  ██▓░░░░░░░░░░░░░░░░░░░  10.2%
-Rust          3 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░   6.7%
-```
+**Tools:**  
+- Git & GitHub Actions
+- Visual Studio Code
+- Figma & UI Design Systems
 
 ---
 
-<!-- CONNECT WITH ME -->
-<div align="center">
-  <h3>Connect With Me</h3>
-  
-  <a href="https://AlphaDev.thteam.me">
-    <img src="https://img.shields.io/badge/Website-00C4B4?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://github.com/AlphaDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:AlphaDev@thteam.me">
-    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+## 📬 Contact
+
+- 🌐 **Website:** [alphadev.thteam.me](https://alphadev.thteam.me/)
+- 📧 **Email:** [tcpasf@thteam.me](mailto:tcpasf@thteam.me)
+- 💬 **Discord:** `alphadzd`
+- 🛡️ **W Development Discord:** [Join Here](https://discord.gg/dF5C55hQYB)
+
+---
+
+## 📄 License
+
+This repository is distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+---
+
+## 🙏 Acknowledgements
+
+- Huge thanks to the entire FiveM community for inspiration and collaboration.
+- Special thanks to [tcpasf](https://github.com/AlphaDev) for ongoing support.
+- Shoutout to contributors who help push projects to the next level.
+
+---
